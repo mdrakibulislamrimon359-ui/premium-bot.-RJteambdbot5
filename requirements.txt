@@ -1,4 +1,1 @@
-python-telegram-bot==22.3
-google-genai
-firebase-admin
-flask
+python-telegram-bot[job-queue]>=22.0,<23.0
