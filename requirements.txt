@@ -1,3 +1,0 @@
-python-telegram-bot[webhooks]==22.6
-firebase-admin
-google-genai
