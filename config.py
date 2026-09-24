@@ -1,0 +1,2 @@
+BOT_NAME='RJ OTP Universe Bot'
+ADMIN_USERNAME='RJteam1'
