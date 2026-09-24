@@ -1,1 +1,4 @@
-python-telegram-bot>=21.0,<23
+python-telegram-bot
+firebase-admin
+google-genai
+tzdata
